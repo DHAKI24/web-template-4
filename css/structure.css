@@ -1,0 +1,554 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container
+{
+	width: 860px;
+	height: 1440px;
+	background-color: lightcoral;
+	margin: 0 auto;
+}
+/*section 1*/
+/*section 1*/
+/*section 1*/
+/*section 1*/
+/*section 1*/
+/*section 1*/
+
+header
+{
+	width: 860px;
+	height: 120px;
+	font-family: arial;
+	background-color: #d6d6d6;
+	
+}
+
+.logo
+{
+	width: 430px;
+	height: 120px;
+	float: left;
+}
+
+
+.gear
+{
+	width: 60px;
+	margin: 25px 0 0 30px;
+	float: left;
+}
+
+
+.text
+{
+	font-size: 40px;
+	margin: 30px 0 0 10px;
+	float: left;
+	
+}
+
+
+
+.mail
+{
+	width: 430px;
+	height: 120px;
+	float: left;
+}
+
+
+.email
+{
+	float: right; 
+}
+
+
+.icon
+{
+	width: 20px;
+	margin: 50px 20px 0 0;
+	float: right;
+}
+
+.company
+{
+	float: right;
+	margin: 50px 20px 0 0;
+}
+
+
+
+
+
+/*end*/
+
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+
+
+
+
+
+/*section 2*/
+/*section 2*/
+/*section 2*/
+/*section 2*/
+/*section 2*/
+/*section 2*/
+
+
+.gallery
+{
+	width: 860px;
+	height: 315px;
+	background-color: purple;
+	background-image: url("../image/brain bulb.jpg");
+	
+	
+}
+
+
+.photo
+{
+	width: 660px;
+	height: 315px;
+	float: left;
+}
+
+
+.brain
+{
+	width: 660px;
+	height: 315px;
+}
+
+.list
+{
+	width: 200px;
+	height: 315px;
+	float: right;
+}
+
+.inner
+{
+
+	margin-top: 40px;
+	
+}
+
+.inner nav li a
+{
+	line-height: 40px;
+	text-decoration: none;
+	text-align: left;
+	color: white;
+	
+}
+
+
+.inner nav li
+{
+	color: white;
+}
+
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+
+
+
+
+
+
+/*section 3*/
+/*section 3*/
+/*section 3*/
+/*section 3*/
+/*section 3*/
+/*section 3*/
+
+
+.main
+{
+	width: 860px;
+	height: 620px;
+	font-family: arail;
+	background-image: linear-gradient(0deg, #640808 , #c10d0e );
+}
+
+
+.side1
+{
+	width: 430px;
+	height: 620px;
+	float: left;
+}
+
+
+.side1 hr
+
+{
+	width: 380px;
+	margin: 0 25px;
+}
+
+.top
+{
+	width: 430px;
+	height: 390px;
+	float: left;
+}
+
+.top button
+{
+	
+	background-color: orangered;
+	color: white;
+	margin: 10px 0 0 25px;
+}
+
+
+.news
+{
+	
+	font-size: 35px;
+	font-weight: 800;
+	margin: 30px 25px 0 25px;
+	color: white;
+}
+
+.picture
+{
+	margin: 10px 25px 0 25px;
+	
+	
+}
+
+
+.pic1
+{
+	width: 300px;
+	height: 150px;
+}
+
+
+.def
+{
+	font-size: 20px;
+	margin: 10px 25px 0 25px;
+	line-height: 25px;
+	color: white;
+}
+
+
+.def span
+{
+	font-weight: 600;
+	color: orange;
+}
+
+
+
+.bottom
+{
+	width: 430px;
+	height: 230px;
+	float: left;
+}
+
+
+.services
+{
+	font-size: 35px;
+	font-weight: 800;
+	margin: 30px 25px 0 25px;
+	color: white;
+
+}
+
+
+.points
+{
+	margin:0 25px 0 10px;
+	line-height: 36px;
+	font-size: 25px;
+	color: orangered;
+}
+
+.points nav li a
+{
+	
+	color: orangered;
+}
+
+
+.side2
+{
+	width: 430px;
+	height: 620px;
+	float: left;
+}
+
+
+.side2 hr
+
+{
+	width: 380px;
+	margin: 0 25px; 
+}
+
+.up
+{
+	width: 430px;
+	height: 230px;
+	float: left;
+}
+
+
+.up button
+{
+	background-color: orangered;
+	color: white;
+	margin: 10px 0 0 25px;
+}
+
+
+
+.welcome
+{
+	font-size: 35px;
+	font-weight: 800;
+	margin: 30px 25px 0 25px;
+	color: white;
+	
+}
+
+
+.para
+{
+	font-size: 20px;
+	margin: 10px 25px 0 25px;
+	line-height: 25px;
+	color: white;
+}
+
+
+
+.down
+{
+	width: 430px;
+	height: 390px;
+	float: left;
+	
+}
+
+.box
+{
+	width: 380px;
+	height: 350px;
+	background-color: #a12219;
+	margin: 20px 0 0 25px;
+}
+
+
+.develope
+{
+	font-size: 35px;
+	font-weight: 800;
+	margin-left: 25px;
+	color: orangered;
+}
+
+
+.sample
+{
+	width: 340px;
+	margin: 30px 20px 0 20px;
+}
+
+
+.devep
+
+{
+	width: 340px;
+}
+
+
+.line
+{
+	margin-top: 20px;
+	font-size: 15px;
+	font-weight: 600;
+	color: white;
+}
+
+
+
+
+
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+
+
+
+
+
+
+/*section 4*/
+/*section 4*/
+/*section 4*/
+/*section 4*/
+/*section 4*/
+/*section 4*/
+
+
+.below
+{
+	width: 860px;
+	height: 290px;
+	background-color: #531311;
+}
+
+
+
+.part1
+{
+	width: 430px;
+	height: 290px;
+	float: left;
+}
+
+.part1 hr
+{
+	margin: 0 25px;
+}
+
+.solution
+{
+	font-size: 35px;
+	font-weight: 800;
+	margin: 10px 0 0 25px;
+	color: orangered;
+}
+
+
+.bulletins nav ul li
+
+{
+	font-size: 40px;
+	line-height: 50px;
+	margin-left: 10px;
+	color: white;
+}
+
+.bulletins nav ul li a
+
+{
+	color: white;
+}
+
+
+.part2
+{
+	width: 430px;
+	height: 290px;
+	float: left;
+}
+
+
+.part2 hr
+{
+	margin: 0 25px;
+}
+
+.test
+{
+	font-size: 35px;
+	font-weight: 800;
+	margin: 10px 0 0 25px;
+	color: orangered;
+}
+
+
+.under
+{
+	margin-top: 20px;
+}
+
+
+.wick
+{
+	width: 175px;
+	padding: 10px;
+	margin: 10px 0 0 25px;
+}
+
+.sec1
+{
+	width: 215px;
+	float: left;
+}
+
+
+.sec2
+{
+	width: 195px;
+	float: left;
+	padding: 10px;
+	margin-top: 20px;
+	line-height: 22px;
+	color: white;
+}
+
+
+
+
+
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+
+
+
+
+/*section 5*/
+/*section 5*/
+/*section 5*/
+/*section 5*/
+/*section 5*/
+/*section 5*/
+
+footer
+{
+	width: 860px;
+	height: 95px;
+	float: left;
+	background-color: #630909;
+}
+
+
+.last
+{
+	margin: 40px 0 0 25px;
+	font-size: 20px;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
